@@ -1,3 +1,4 @@
-# SIGGRAPH
-Emerging Technologies Installation
-Multimedia HCI for Tele-diagnosis: Interactive perception of positively colored generative art images, life satisfaction and well-being 
+# CyPsy26
+GALA Inspired by Klimt's Art:
+Image-to-text Processing with Implementation in Interaction and Perception Studies: Library and Case Examples
+
